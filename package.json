@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://kerollos0.github.io/BeachResort/",
   "dependencies": {
-    "gh-pages": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
@@ -34,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
   }
 }
