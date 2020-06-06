@@ -22,7 +22,7 @@ export default class SingleRoom extends Component {
       return (
         <div className="error">
           <h3>Error</h3>
-          <Link to="/" className="btn-primary">
+          <Link to="/home" className="btn-primary">
             Back To Home
           </Link>
         </div>
