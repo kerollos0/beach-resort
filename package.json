@@ -1,8 +1,8 @@
 {
-  "name": "beach",
+  "name": "BeachResort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kerollos0.github.io/BeachResort/home",
+  "homepage": "https://kerollos0.github.io/BeachResort",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
