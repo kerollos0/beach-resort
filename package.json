@@ -1,7 +1,7 @@
 {
   "name": "beach-resort",
   "version": "0.1.0",
-  "homepage": "https://github.com/kerollos0/beach-resort.git",
+  "homepage": "https://kerollos0.github.io/beach-resort/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
