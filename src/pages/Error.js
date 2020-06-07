@@ -1,7 +1,5 @@
-import React from 'react'
-import Hero from '../component/Hero'
+import React from "react";
+import Home from "../pages/Home";
 export default function Error() {
-    return (
-        <Hero/>
-    )
+  return <Home />;
 }
